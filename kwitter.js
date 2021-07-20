@@ -1,13 +1,14 @@
-    var firebaseConfig = {
-    apiKey: "AIzaSyCdYbMsUJQA6Hed3IZelKFWx7svJPjSa_o",
-    authDomain: "lets-chat-22f67.firebaseapp.com",
-    projectId: "lets-chat-22f67",
-    storageBucket: "lets-chat-22f67.appspot.com",
-    messagingSenderId: "329872294137",
-    appId: "1:329872294137:web:1bc86bb3463c3b0c5f2228"
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
+var firebaseConfig = {
+  apiKey: "AIzaSyAcbklv6kAvLBnmL18jaw26zV0YTygXYG0",
+  authDomain: "lets-chat-e2e5a.firebaseapp.com",
+  databaseURL: "https://lets-chat-e2e5a-default-rtdb.firebaseio.com",
+  projectId: "lets-chat-e2e5a",
+  storageBucket: "lets-chat-e2e5a.appspot.com",
+  messagingSenderId: "695258579648",
+  appId: "1:695258579648:web:175c18670ce8961a3ae325"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
 
 
 
